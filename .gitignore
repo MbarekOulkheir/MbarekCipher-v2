@@ -1,10 +1,26 @@
-# Fichiers temporaires
+# 🔐 Fichiers générés par Mbarek Cipher
 *.mbk
+
+# 🧪 Fichiers temporaires
 *.log
 *.tmp
+*.cache
 
-# MacOS
+# 📂 Dossiers temporaires
+/tmp/
+/cache/
+
+# ⚙️ Dépendances (si jamais tu utilises Composer)
+vendor/
+
+# 🖥️ OS
 .DS_Store
+Thumbs.db
 
-# Linux swap
+# 🐧 Linux / éditeurs
 *.swp
+*.swo
+
+# 🧪 Tests / outputs
+/output/
+*.out
