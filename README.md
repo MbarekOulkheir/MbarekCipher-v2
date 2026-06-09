@@ -150,7 +150,8 @@ Le projet inclut :
 
 Mbarek Oulkheir  
 📧 [oulkheir@gmail.com](mailto:oulkheir@gmail.com)  
-🔗 GitHub: https://github.com/OulkheirMbarek
+🔗 GitHub: https://github.com/MbarekOulkheir
+
 
 📍 Maroc, Haut Atlas
 
